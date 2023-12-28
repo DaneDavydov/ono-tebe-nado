@@ -7,5 +7,5 @@
 - CSS(Flexbox + Grid)
 - БЭМ
 
-# Сылка на демо проекта
-https://danedavydov.github.io/ono-tebe-nado/
+# Сылка на репозиторий проекта
+https://github.com/DaneDavydov/ono-tebe-nado
