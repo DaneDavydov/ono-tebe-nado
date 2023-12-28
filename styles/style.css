@@ -2,6 +2,11 @@
   display: inline-block;
   text-decoration: none;
   border-bottom: 1px black solid;
+  transition: all 1s ease;
+}
+
+.link:hover {
+  opacity: .5;
 }
 
 .link_active {
